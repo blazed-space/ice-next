@@ -15,7 +15,7 @@ const Logo = (props: ILogo) => {
             aria-label="Back to homepage"
             title={props.title} 
             className="flex items-center p-2 hover:opacity-75 select-none">
-            <Image 
+            <img 
                 src="/images/beaker-cobalt.png" 
                 width={40} 
                 height={40} 
