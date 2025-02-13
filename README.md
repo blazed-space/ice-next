@@ -1,5 +1,11 @@
 # Ice Next
 
+## Added to this Version
+- Load Fonts from Google Fonts
+- Dynamic Web Manifest
+- Dynamic Favicon & OG Images
+- Schema, Sitemap
+
 ## Getting Started
 
 First, run the development server:
